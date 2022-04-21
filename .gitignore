@@ -15,3 +15,6 @@ google-service.json
 .externalNativeBuild
 .cxx
 local.properties
+*.apk
+*.ap_
+*.aab
