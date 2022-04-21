@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.login.LoginActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="275dp"
+                android:background="@drawable/login_bg">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Login"
+                    android:textColor="@color/white"
+
+                    android:textSize="45sp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.135"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.394" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <EditText
+                android:id="@+id/EmailText"
+                android:layout_width="250dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="45dp"
+                android:background="@drawable/text_design"
+                android:drawableStart="@drawable/ic_email"
+                android:drawablePadding="3dp"
+                android:ems="10"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:padding="10dp" />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <EditText
+                    android:id="@+id/passwordText"
+                    android:layout_width="250dp"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="24dp"
+                    android:background="@drawable/text_design"
+                    android:drawableStart="@drawable/ic_password"
+                    android:drawablePadding="3dp"
+                    android:ems="10"
+                    android:hint="Password"
+                    android:inputType="textPassword"
+                    android:padding="10dp" />
+                <TextView
+                    android:id="@+id/forgotPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginEnd="4dp"
+                    android:clickable="true"
+                    android:layout_gravity="right"
+                    android:text="Forgot Password" />
+
+            </LinearLayout>
+
+
+
+
+            <Button
+                android:id="@+id/loginButton"
+                android:layout_width="108dp"
+                android:layout_height="48dp"
+                android:layout_marginTop="55dp"
+                android:backgroundTint="@color/purple_500"
+                android:onClick="loginButton"
+                android:text="Login" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="horizontal"
+                android:textAlignment="center">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5dp"
+                    android:text="Don't have an account?"
+                    android:textSize="16dp"
+                    android:paddingBottom="15dp"
+                    />
+
+                <TextView
+                    android:id="@+id/RegisterTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:text="Register"
+                    android:textColor="@color/purple_500"
+                    android:textSize="18dp"
+                    android:paddingBottom="15dp"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

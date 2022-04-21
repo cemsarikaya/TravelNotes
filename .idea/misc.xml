@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable-v24/dasd.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.22" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable-v24/pin.xml" value="0.37447916666666664" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable-v24/ss.xml" value="0.11018518518518519" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/add_plus.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/back_button.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/close.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/dasd.xml" value="0.11296296296296296" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/detail_design.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ic_aaaaaaaa.xml" value="0.2203125" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ic_marker3.xml" value="0.12222222222222222" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ic_password.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ic_ss.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/image2vector.xml" value="0.37447916666666664" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/image_design.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/info.xml" value="0.3265" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/marker.xml" value="0.22135416666666666" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/marker2.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/marker3.xml" value="0.20092592592592592" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/markerr.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/next_button.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/pin.xml" value="0.2171875" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/ss.xml" value="0.2171875" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/text_design.xml" value="0.37864583333333335" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/drawable/text_design2.xml" value="0.2795" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_add_item.xml" value="0.25" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_details.xml" value="0.5" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_forgot.xml" value="0.25" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_full_screen_image.xml" value="0.33" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/fragment_detail.xml" value="0.3625" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/fragment_main.xml" value="0.3625" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/fullimages_row.xml" value="0.271286231884058" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/layout/images_row.xml" value="0.348731884057971" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/menu/maps_menu.xml" value="0.3625" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21979166666666666" />
+        <entry key="..\:/cem_f/AndroidStudioProjects/GeziDefterim/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
